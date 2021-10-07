@@ -31,8 +31,8 @@ testdata.properties = [
     String recipeName = prop.getProperty("recipeName");                                                                                  
 
 //we can navigate to the allrecipes.com website
-    driver = webdriver.Chrome()
-    driver.get("https://allrecipes.com")
+    driver = webdriver.Chrome();
+    driver.get("https://allrecipes.com");
 
 //once the page loads, we want to click on the findRecipe textbox. We can specify which one by xpath
     public void clickFindRecipeTextbox() {
