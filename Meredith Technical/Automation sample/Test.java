@@ -17,7 +17,7 @@ testdata.properties =  [
 
 //import some external stuff things here
 
-//we can create an allRecipesPage that would be called from an allRecipesAction page
+//we can create an allRecipesPage that would be referencing from an allRecipesAction page
 
 //this is our allRecipesPage
 //assume we have a WebBasePage that handles all of our click, enter, wait functionalities, etc...
