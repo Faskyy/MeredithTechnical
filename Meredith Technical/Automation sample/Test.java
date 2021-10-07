@@ -8,7 +8,7 @@ testdata.properties = [
     recipeName = Fahd's Fantastic Burger                                                                                                
 ];
 
-//we need a properties file that holds values for what we'd want to automate. Here is some pseudocode for it
+/*we need a properties file that holds values for what we'd want to automate. Here is some pseudocode for it*/
 
 //-----------------
 
