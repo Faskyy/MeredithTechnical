@@ -1,3 +1,9 @@
+//STEPS and then CODE is provided below
+//1. Create a main test page that will automate the search function
+//2. Create an allRecipesAction page to create the functions that our allRecipesPage will use
+//3. Create an allRecipesPage that extends WebBasePage (this will handle click and enter functionalities)
+
+
 testdata.properties = [
     recipeName = Fahd's Fantastic Burger                                                                                                
 ];
