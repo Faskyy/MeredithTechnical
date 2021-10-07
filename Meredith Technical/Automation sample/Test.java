@@ -43,7 +43,7 @@ testdata.properties =  [
         click(By.xpath("//div[@class='search-field']//textarea"), "Find a Recipe");  
     }
 
-//this would enter Fahd's Fantastic Burger
+//then we want to enter what value we want to search for, thich would be Fahd's Fantastic Burger
     public void enterRecipeName() {
         enter(By.xpath("//div[@class='search-field']//textarea"), recipeName, "Recipe Name");
     }
@@ -62,7 +62,7 @@ public class allRecipesAction(){
 
 AllRecipesPage searchAllRecipes = new AllRecipesPage();
 
-//now we can just create a method that will call all the functions we made in our allRecipesPage
+//we can just create a method that will call all the functions we made in our allRecipesPage
 public void navigateToAllRecipes(){
     searchAllRecipes.clickFindRecipeTextbox();
     searchAllRecipes.enterRecipeName();
