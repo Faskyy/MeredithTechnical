@@ -4,9 +4,9 @@
 //3. Create an allRecipesPage that extends WebBasePage (this will handle click and enter functionalities)
 
 
-testdata.properties = [
-    recipeName = Fahd's Fantastic Burger                                                                                                
-] 
+testdata.properties =  recipeName = Fahd's Fantastic Burger                                                                                                
+
+    
 //assume we have a properties file that will hold values for what we'd want to automate
 //here is some pseudocode
 
