@@ -15,7 +15,7 @@ testdata.properties =  [
 
 //-----------------
 
-//import some stuff here
+//import some external stuff things here
 
 //we can create an allRecipesPage that would be called from an allRecipesAction page
 
